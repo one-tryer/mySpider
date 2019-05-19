@@ -1,0 +1,3 @@
+mySpider/__pycache__/
+mySpider/scrapy_redis/__pycache__/
+mySpider/spiders/__pycache__/
